@@ -38,3 +38,14 @@ in the Main.cpp file in order to check the correctness of the code, including a 
 both cases that contain the result and cases that don't contain the result.
 
 For Reference (KMP Algorithm): https://cp-algorithms.com/string/prefix-function.html
+
+
+------------------------------------------------------------------------------------------------
+
+
+Instructions:
+Clone the repository in your local system.
+Run the following commands to run the program in your terminal:
+- cd Find-the-word-master/src
+- g++ -o find-the-word Main.cpp
+- ./find-the-word

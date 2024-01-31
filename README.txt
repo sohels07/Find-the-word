@@ -1,7 +1,5 @@
 Puzzle Solver
-This is a C++ program to solve a "find the word" puzzle with a slight twist. 
-The program takes 2d character array and a word as the input. The goal is to find specific words within these arrays, where the words can appear horizontally
-or vertically but not diagonally.
+This is a C++ program to solve a "find the word" puzzle with a slight twist. The program takes 2d character array and a word as the input. The goal is to find specific words within these arrays, where the words can appear horizontally or vertically but not diagonally.
 
 The words to find can appear horizontally or vertically BUT NOT diagonally. The horizontal word will appear in order from left to right. The vertical word will appear in order from top to bottom. 
  

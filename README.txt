@@ -47,3 +47,8 @@ Run the following commands to run the program in your terminal:
 - cd Find-the-word-master/src
 - g++ -o find-the-word Main.cpp
 - ./find-the-word
+
+Time Complexity Analysis:
+The Knuth-Morris-Pratt (KMP) Algorithm, has a time complexity of O(a + b), where a and b are the sizes of the strings being searched and the pattern being searched for, respectively.
+
+Since we are applying KMP Algorithm to each row and each column of the 2D array, the overall time complexity becomes O(n * m), where n is the number of rows and m is the number of columns in the array.
